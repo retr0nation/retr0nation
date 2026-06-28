@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>retr0-arcade</title>
+  <style>
+    :root { --cyan: #00d4ff; --bg: #0d1117; --panel: #161b22; --text: #e6edf3; --muted: #8b949e; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; min-height: 100vh; font-family: Consolas, Monaco, monospace;
+      color: var(--text); background: radial-gradient(circle at top, #102033 0%, var(--bg) 55%);
+      display: flex; align-items: center; justify-content: center; padding: 24px;
+    }
+    .shell { width: min(920px, 100%); border: 1px solid rgba(0,212,255,.35); background: rgba(13,17,23,.92); box-shadow: 0 0 40px rgba(0,212,255,.12); }
+    .top { padding: 28px 32px 12px; border-bottom: 1px solid rgba(0,212,255,.2); }
+    h1 { margin: 0; font-size: clamp(2rem, 6vw, 3.2rem); letter-spacing: .12em; color: var(--cyan); text-shadow: 0 0 18px rgba(0,212,255,.45); }
+    .sub { margin: 10px 0 0; color: var(--muted); font-size: .95rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; padding: 24px 32px 32px; }
+    a.card {
+      text-decoration: none; color: inherit; background: var(--panel); border: 1px solid #30363d;
+      padding: 20px; transition: .2s ease; display: block;
+    }
+    a.card:hover { border-color: var(--cyan); transform: translateY(-2px); box-shadow: 0 0 20px rgba(0,212,255,.18); }
+    .tag { color: var(--cyan); font-size: .75rem; letter-spacing: .08em; }
+    .title { margin: 8px 0 6px; font-size: 1.2rem; }
+    .desc { margin: 0; color: var(--muted); font-size: .85rem; line-height: 1.45; }
+    .foot { padding: 0 32px 24px; color: var(--muted); font-size: .8rem; }
+    .foot a { color: var(--cyan); }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <h1>RETR0 ARCADE</h1>
+      <p class="sub">Cyberpunk mini-game engine — pick a cabinet and play.</p>
+    </header>
+    <section class="grid">
+      <a class="card" href="games/flappy.html"><div class="tag">ARCADE 01</div><div class="title">Flappy</div><p class="desc">Tap or space to fly. Neon pipes, classic addiction.</p></a>
+      <a class="card" href="games/tetris.html"><div class="tag">ARCADE 02</div><div class="title">Tetris</div><p class="desc">Stack blocks, clear lines, chase the high score.</p></a>
+      <a class="card" href="games/snake.html"><div class="tag">ARCADE 03</div><div class="title">Snake</div><p class="desc">Arrow keys to move. Don't bite yourself.</p></a>
+    </section>
+    <footer class="foot">built by <a href="https://retr0.ainet.solutions/">retr0</a> · <a href="https://github.com/retr0nation/retr0-arcade">source</a> · <a href="https://ainet.solutions">AINET.Solutions</a></footer>
+  </main>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="retr0 banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#00131f"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00d4ff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect x="40" y="40" width="1120" height="200" fill="none" stroke="#00d4ff" stroke-opacity="0.25" stroke-width="1"/>
+  <rect x="0" y="138" width="1200" height="2" fill="url(#line)"/>
+  <text x="600" y="118" font-family="Consolas, Monaco, monospace" font-size="78" font-weight="700" fill="#ffffff" text-anchor="middle" filter="url(#glow)">retr0</text>
+  <text x="600" y="158" font-family="Consolas, Monaco, monospace" font-size="22" fill="#00d4ff" text-anchor="middle">music × code × AI</text>
+  <text x="600" y="190" font-family="Consolas, Monaco, monospace" font-size="16" fill="#8b949e" text-anchor="middle">AINET.Solutions · retr0.ainet.solutions</text>
+  <text x="600" y="222" font-family="Consolas, Monaco, monospace" font-size="13" fill="#484f58" text-anchor="middle">/// architect of Rex · Gibby · Kobe</text>
+</svg>
