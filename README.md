@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=retr0&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/banner.svg" width="100%" alt="retr0 banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=music+%C3%97+code+%C3%97+AI;Building+at+AINET.Solutions;Custom+AI+agents+%E2%80%A2+Arcade+engines+%E2%80%A2+Music+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&lines=music+%C3%97+code+%C3%97+AI;retr0.ainet.solutions;Custom+AI+agents+%E2%80%A2+Arcade+engines+%E2%80%A2+Music+tools" alt="Typing SVG" />
 
 <br/>
 
-[![AINET.Solutions](https://img.shields.io/badge/AINET-Solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Website](https://img.shields.io/badge/website-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
+[![AINET](https://img.shields.io/badge/AINET-Solutions-111111?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0nation/arcade/)
 [![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 [![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/retr0nation)
 
@@ -34,8 +36,9 @@ retr0  →  human. music producer, builder, architect.
 retr0nation  →  public dev persona / bot layer on GitHub.
 ```
 
-I work with my own twisted imagination — beats, c0de, generative visuals, and custom AI systems that actually ship.  
-Currently building the **AINET.Solutions** ecosystem: **Rex**, **Gibby**, **Kobe**, and whatever comes next.
+I work with my own twisted imagination — beats, c0de, generative visuals, and custom AI systems that actually ship.
+
+**Home:** [retr0.ainet.solutions](https://retr0.ainet.solutions/) · **Ecosystem:** [AINET.Solutions](https://ainet.solutions) — **Rex**, **Gibby**, **Kobe**, and whatever comes next.
 
 ---
 
@@ -65,6 +68,10 @@ Currently building the **AINET.Solutions** ecosystem: **Rex**, **Gibby**, **Kobe
 ---
 
 ## /// featured work
+
+### Play now
+
+[![retr0-arcade live demo](https://img.shields.io/badge/▶_play-retr0--arcade_demo-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0nation/arcade/)
 
 <a href="https://github.com/retr0nation/retr0-arcade">
   <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=retr0-arcade&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="retr0-arcade" />
@@ -100,12 +107,6 @@ Currently building the **AINET.Solutions** ecosystem: **Rex**, **Gibby**, **Kobe
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=retr0nation&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff&bg_color=0d1117" alt="Activity graph" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 ---
@@ -116,9 +117,9 @@ Currently building the **AINET.Solutions** ecosystem: **Rex**, **Gibby**, **Kobe
 
 <br/>
 
-[![AINET](https://img.shields.io/badge/visit-ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![retr0 site](https://img.shields.io/badge/visit-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
 [![X](https://img.shields.io/badge/follow-@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
