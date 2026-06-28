@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RETR0 Snake</title>
+  <style>
+    body { margin:0; min-height:100vh; display:grid; place-items:center; background:#0d1117; color:#00d4ff; font-family:Consolas,monospace; }
+    canvas { border:2px solid #00d4ff; background:#000; box-shadow:0 0 24px rgba(0,212,255,.25); }
+    p { color:#8b949e; }
+  </style>
+</head>
+<body>
+  <div style="text-align:center">
+    <h1>RETR0 SNAKE</h1>
+    <canvas id="c" width="400" height="400"></canvas>
+    <p>Arrow keys · eat cyan · don't crash</p>
+    <p id="score">Score: 0</p>
+  </div>
+  <script>
+    const canvas = document.getElementById('c');
+    const ctx = canvas.getContext('2d');
+    const size = 20, tiles = 20;
+    let snake = [{x:10,y:10}], dir = {x:1,y:0}, food = {x:5,y:5}, score = 0;
+    function randFood(){ food = { x: Math.floor(Math.random()*tiles), y: Math.floor(Math.random()*tiles) }; }
+    function step(){
+      const head = { x: snake[0].x + dir.x, y: snake[0].y + dir.y };
+      if (head.x<0||head.y<0||head.x>=tiles||head.y>=tiles || snake.some(s=>s.x===head.x&&s.y===head.y)) return location.reload();
+      snake.unshift(head);
+      if (head.x===food.x && head.y===food.y) { score++; document.getElementById('score').textContent='Score: '+score; randFood(); } else snake.pop();
+      ctx.fillStyle='#000'; ctx.fillRect(0,0,canvas.width,canvas.height);
+      ctx.fillStyle='#ff2d95'; ctx.fillRect(food.x*size, food.y*size, size-1, size-1);
+      ctx.fillStyle='#00d4ff'; snake.forEach(s=>ctx.fillRect(s.x*size,s.y*size,size-1,size-1));
+    }
+    document.addEventListener('keydown', e => {
+      if (e.key==='ArrowUp' && dir.y!==1) dir={x:0,y:-1};
+      if (e.key==='ArrowDown' && dir.y!==-1) dir={x:0,y:1};
+      if (e.key==='ArrowLeft' && dir.x!==1) dir={x:-1,y:0};
+      if (e.key==='ArrowRight' && dir.x!==-1) dir={x:1,y:0};
+    });
+    setInterval(step, 120);
+  </script>
+</body>
+</html>

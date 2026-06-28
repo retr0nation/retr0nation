@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RETR0 Tetris</title>
+    <style>
+        body { background-color: #1e1e1e; color: #e1e1e1; font-family: 'Courier New', monospace; display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column; }
+        canvas { border: 2px solid #00ffcc; background-color: #000; }
+        .logo { color: #ff00ff; font-size: 3em; animation: blink 1s infinite; }
+        @keyframes blink { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <div class="logo">RETR0</div>
+    <canvas id="gameCanvas" width="300" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById('gameCanvas'); const context = canvas.getContext('2d');
+        const GRID_SIZE = 30, ROWS = 20, COLS = 10; let score = 0;
+        let board = Array.from({ length: ROWS }, () => Array(COLS).fill(0));
+        class Tetromino { constructor(shape) { this.shape = shape; this.position = { x: Math.floor(COLS / 2) - 1, y: 0 }; }
+            draw() { context.fillStyle = '#00ffcc'; this.shape.forEach((row,y) => row.forEach((value,x) => { if (value) context.fillRect((this.position.x + x) * GRID_SIZE, (this.position.y) * GRID_SIZE, GRID_SIZE, GRID_SIZE); })); } }
+        const SHAPES = [[[1,1,1,1]],[[1,1],[1,1]],[[0,1,0],[1,1,1]],[[1,0,0],[1,1,1]],[[0,0,1],[1,1,1]],[[0,1,1],[1,1,0]],[[1,1,0],[0,1,1]]];
+        let currentTetromino = new Tetromino(SHAPES[Math.floor(Math.random() * SHAPES.length)]);
+        function drawBoard() { context.clearRect(0, 0, canvas.width, canvas.height); currentTetromino.draw(); }
+        function dropTetromino() { currentTetromino.position.y++; if (collision()) { currentTetromino.position.y--; merge(); currentTetromino = new Tetromino(SHAPES[Math.floor(Math.random() * SHAPES.length)]); if (collision()) { alert('Game Over! Your score: ' + score); resetGame(); } } }
+        function collision() { return currentTetromino.shape.some((row,y) => row.some((value,x) => value && (board[currentTetromino.position.y + y] && board[currentTetromino.position.y + y][currentTetromino.position.x + x]) !== 0)); }
+        function merge() { currentTetromino.shape.forEach((row,y) => row.forEach((value,x) => { if (value) board[currentTetromino.position.y + y][currentTetromino.position.x + x] = 1; })); clearLines(); }
+        function clearLines() { for (let y = 0; y < ROWS; y++) { if (board[y].every(value => value !== 0)) { board.splice(y, 1); board.unshift(Array(COLS).fill(0)); score += 10; } } }
+        function resetGame() { board = Array.from({ length: ROWS }, () => Array(COLS).fill(0)); score = 0; }
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'ArrowLeft') { currentTetromino.position.x--; if (collision()) currentTetromino.position.x++; }
+            else if (event.key === 'ArrowRight') { currentTetromino.position.x++; if (collision()) currentTetromino.position.x--; }
+            else if (event.key === 'ArrowDown') dropTetromino();
+            else if (event.key === 'ArrowUp') rotate();
+        });
+        function rotate() { currentTetromino.shape = currentTetromino.shape[0].map((_, index) => currentTetromino.shape.map(row => row[index]).reverse()); if (collision()) currentTetromino.shape = currentTetromino.shape[0].map((_, index) => currentTetromino.shape.map(row => row[index])).reverse(); }
+        setInterval(() => { drawBoard(); dropTetromino(); }, 1000);
+    </script>
+</body>
+</html>

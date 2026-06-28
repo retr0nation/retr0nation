@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy RETR0</title>
+    <style>
+        body { background-color: #0a0a0a; color: #00ffcc; font-family: 'Press Start 2P', cursive; margin: 0; overflow: hidden; }
+        #canvas { display: block; margin: auto; border: 2px solid #00ffcc; background: linear-gradient(to bottom, #2a2a2a, #1a1a1a); }
+        #logo { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); font-size: 32px; animation: blinking 1s infinite; }
+        @keyframes blinking { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <div id="logo">RETR0</div>
+    <canvas id="canvas" width="400" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        const gravity = 0.25, jump = -4.6, pipeWidth = 50, pipeGap = 100;
+        let bird, pipes = [], score = 0, isGameOver = false, gameStarted = false;
+        class Bird {
+            constructor() { this.x = 50; this.y = canvas.height / 2; this.width = 30; this.height = 30; this.velocity = 0; }
+            update() { if (this.y < canvas.height) { this.velocity += gravity; this.y += this.velocity; } if (this.y + this.height >= canvas.height) { this.y = canvas.height - this.height; this.velocity = 0; isGameOver = true; } }
+            jump() { this.velocity = jump; }
+            draw() { ctx.fillStyle = '#ffcc00'; ctx.fillRect(this.x, this.y, this.width, this.height); }
+        }
+        class Pipe {
+            constructor(x) { this.x = x; this.top = Math.random() * (canvas.height - pipeGap - 20) + 20; this.bottom = canvas.height - this.top - pipeGap; this.width = pipeWidth; }
+            update() { this.x -= 2; if (this.x + this.width <= 0) { pipes.shift(); score++; } }
+            draw() { ctx.fillStyle = '#ff0033'; ctx.fillRect(this.x, 0, this.width, this.top); ctx.fillRect(this.x, canvas.height - this.bottom, this.width, this.bottom); }
+            collision(bird) { return bird.x < this.x + this.width && bird.x + bird.width > this.x && (bird.y < this.top || bird.y + bird.height > canvas.height - this.bottom); }
+        }
+        function startGame() { bird = new Bird(); pipes = []; score = 0; isGameOver = false; gameStarted = true; requestAnimationFrame(gameLoop); generatePipes(); }
+        function generatePipes() { setInterval(() => pipes.push(new Pipe(canvas.width)), 1500); }
+        function gameLoop() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height); bird.update(); bird.draw();
+            pipes.forEach(pipe => { pipe.update(); pipe.draw(); if (pipe.collision(bird)) isGameOver = true; });
+            if (isGameOver) { ctx.fillStyle = 'red'; ctx.fillText('Game Over!', canvas.width / 2 - 40, canvas.height / 2); ctx.fillText('Score: ' + score, canvas.width / 2 - 40, canvas.height / 2 + 20); }
+            else if (gameStarted) { ctx.fillStyle = '#00ffcc'; ctx.fillText('Score: ' + score, 10, 20); requestAnimationFrame(gameLoop); }
+        }
+        canvas.addEventListener('click', () => isGameOver ? startGame() : bird.jump());
+        document.addEventListener('keydown', e => { if (e.code === 'Space') isGameOver ? startGame() : bird.jump(); });
+        startGame();
+    </script>
+</body>
+</html>
