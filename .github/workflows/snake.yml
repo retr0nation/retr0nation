@@ -16,11 +16,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Platane/snk@v3
-        id: snake
         with:
           github_user_name: retr0nation
           outputs_dir: dist
-          output_branch: output
           generate_github_token: true
           generate_branch: true
-          gif_tool_options: "--repeat 2 --delay 80 --colors 00d4ff-0d1117"
+          publish_branch: output
