@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/website-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
 [![AINET](https://img.shields.io/badge/AINET-Solutions-111111?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
-[![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0nation/arcade/)
+[![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
 [![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 [![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/retr0nation)
 
@@ -71,10 +71,10 @@ I work with my own twisted imagination — beats, c0de, generative visuals, and 
 
 ### Play now
 
-[![retr0-arcade live demo](https://img.shields.io/badge/▶_play-retr0--arcade_demo-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0nation/arcade/)
+[![retr0-arcade live demo](https://img.shields.io/badge/▶_play-retr0--arcade_live-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
 
-<a href="https://github.com/retr0nation/retr0-arcade">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=retr0-arcade&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="retr0-arcade" />
+<a href="https://github.com/retr0nation/retr0-arcade-live">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=retr0-arcade-live&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="retr0-arcade-live" />
 </a>
 <a href="https://github.com/retr0nation/llm-chat-app-template">
   <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=llm-chat-app-template&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="llm-chat-app-template" />
