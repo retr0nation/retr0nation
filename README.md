@@ -1,48 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=180&section=header&text=retr0&fontSize=72&fontColor=ffffff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=retr0&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%" />
 
-**music × code × AI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=music+%C3%97+code+%C3%97+AI;Building+at+AINET.Solutions;Custom+AI+agents+%E2%80%A2+Arcade+engines+%E2%80%A2+Music+tools" alt="Typing SVG" />
 
-Building at the intersection of production and engineering.
+<br/>
 
-[![AINET.Solutions](https://img.shields.io/badge/AINET-Solutions-00d4ff?style=for-the-badge)](https://ainet.solutions)
-[![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/retr0nation)
-[![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github)](https://github.com/retr0nation)
+[![AINET.Solutions](https://img.shields.io/badge/AINET-Solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
+[![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/retr0nation)
+
+<img src="https://komarev.com/ghpvc/?username=retr0nation&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## What I build
+<div align="center">
 
-- **Custom AI agents** — Rex, Gibby, Kobe and the [AINET.Solutions](https://ainet.solutions) ecosystem
-- **Cyberpunk arcade experiments** — browser mini-game engines
-- **Music production tools** — Launchpad templates, FL Studio / Serato workflows
-- **Generative creative work** — beats, visuals, AI-assisted content
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=retr0nation&show_icons=true&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=retr0nation&theme=tokyonight&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" alt="GitHub streak" />
 
-## Featured projects
+<img src="https://github-profile-trophy.vercel.app/?username=retr0nation&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SSS,SS,S,AAA,AA,A" alt="GitHub trophies" />
 
-| Project | Description |
-|---------|-------------|
-| [**retr0-arcade**](https://github.com/retr0nation/retr0-arcade) | Snake, Flappy, Tetris — cyberpunk arcade engine |
-| [**Launchpad MKII template**](https://github.com/retr0nation/retr0---Novation-launchpad-XML-template) | Novation Launchpad Pro MKII user mode template |
-| [**llm-chat-app-template**](https://github.com/retr0nation/llm-chat-app-template) | Cloudflare Workers AI chat app with streaming |
+</div>
 
-## Stack & tools
+---
 
-`JavaScript` `HTML/CSS` `Cloudflare Workers` `FL Studio` `Serato` `Novation Launchpad` `AI / LLMs`
+## /// about
 
-## Currently
+```
+retr0  →  human. music producer, builder, architect.
+retr0nation  →  public dev persona / bot layer on GitHub.
+```
 
-Twisted imagination in overdrive. Sometimes music, sometimes c0de, sometimes both at once.
+I work with my own twisted imagination — beats, c0de, generative visuals, and custom AI systems that actually ship.  
+Currently building the **AINET.Solutions** ecosystem: **Rex**, **Gibby**, **Kobe**, and whatever comes next.
+
+---
+
+## /// what i build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI & Engineering
+- Custom AI agents & agent workflows
+- LLM apps on Cloudflare Workers
+- Creative tooling + automation pipelines
+
+</td>
+<td width="50%" valign="top">
+
+### Music & Creative
+- FL Studio / Serato production workflows
+- Novation Launchpad templates
+- Cyberpunk visuals + arcade experiments
+
+</td>
+</tr>
+</table>
+
+---
+
+## /// featured work
+
+<a href="https://github.com/retr0nation/retr0-arcade">
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=retr0-arcade&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="retr0-arcade" />
+</a>
+<a href="https://github.com/retr0nation/llm-chat-app-template">
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=llm-chat-app-template&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="llm-chat-app-template" />
+</a>
+
+<br clear="both"/>
+<br/>
+
+<a href="https://github.com/retr0nation/retr0---Novation-launchpad-XML-template">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=retr0nation&repo=retr0---Novation-launchpad-XML-template&theme=tokyonight&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" alt="Launchpad MKII template" />
+</a>
+
+---
+
+## /// stack
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,py,cloudflare,git,githubactions,figma&theme=dark)](https://skillicons.dev)
+
+`FL Studio` `Serato` `Novation Launchpad` `LLMs` `AI Agents` `Generative Media`
+
+</div>
+
+---
+
+## /// activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=retr0nation&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff&bg_color=0d1117" alt="Activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/retr0nation/retr0nation/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-**[ainet.solutions](https://ainet.solutions)** · **[@retr0nation](https://twitter.com/retr0nation)**
+**currently:** twisted imagination in overdrive — music, c0de, or both at once.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=100&section=footer" width="100%" />
+<br/>
+
+[![AINET](https://img.shields.io/badge/visit-ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![X](https://img.shields.io/badge/follow-@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
