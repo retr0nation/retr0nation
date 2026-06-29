@@ -148,6 +148,33 @@ Product architecture beyond the canvas — audits, monetization, growth systems
 
 ---
 
+## /// gallery
+
+Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/retr0nation) — synthwave · neon · cyberpunk · street art
+
+<div align="center">
+
+<a href="https://www.deviantart.com/retr0nation/art/GAME-OVER-Cover-1131648106" title="GAME OVER Cover">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f83fb6-2003-41c4-8d6c-753971d05288/dipr59m-4899e62d-950c-46ef-b0f5-fe4038852715.jpg/v1/fill/w_350,h_350,q_70,strp/game_over_cover_by_retr0nation_dipr59m-350t.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNGY4M2ZiNi0yMDAzLTQxYzQtOGQ2Yy03NTM5NzFkMDUyODgvZGlwcjU5bS00ODk5ZTYyZC05NTBjLTQ2ZWYtYjBmNS1mZTQwMzg4NTI3MTUuanBnIiwiaGVpZ2h0IjoiPD0xMDI0Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiL3dtLzE0ZjgzZmI2LTIwMDMtNDFjNC04ZDZjLTc1Mzk3MWQwNTI4OC9yZXRyMG5hdGlvbi00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.0U319yg2OvxpvWJUO9eVMyx7kyarEPIM-tITNph9Abw" width="23%" alt="GAME OVER Cover" />
+</a>
+<a href="https://www.deviantart.com/retr0nation/art/The-Neon-Code-BYTE-Emerges-1108887250" title="BYTE Emerges">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f83fb6-2003-41c4-8d6c-753971d05288/dic7avm-f1730b97-c82b-4dfb-be61-93d6403b9ec0.png/v1/fill/w_350,h_350,q_70,strp/the_neon_code__byte_emerges_by_retr0nation_dic7avm-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNGY4M2ZiNi0yMDAzLTQxYzQtOGQ2Yy03NTM5NzFkMDUyODgvZGljN2F2bS1mMTczMGI5Ny1jODJiLTRkZmItYmU2MS05M2Q2NDAzYjllYzAucG5nIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiL3dtLzE0ZjgzZmI2LTIwMDMtNDFjNC04ZDZjLTc1Mzk3MWQwNTI4OC9yZXRyMG5hdGlvbi00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.8nXUDgVFWlZz0tXYSRjpX1LdASraeeUVekudDScePf8" width="23%" alt="BYTE Emerges" />
+</a>
+<a href="https://www.deviantart.com/retr0nation/art/Neon-Tiger-1136194226" title="Neon Tiger">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f83fb6-2003-41c4-8d6c-753971d05288/disgl2q-60c78890-b492-45ae-9684-49949b322ad8.png/v1/fill/w_350,h_350,q_70,strp/neon_tiger_by_retr0nation_disgl2q-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNGY4M2ZiNi0yMDAzLTQxYzQtOGQ2Yy03NTM5NzFkMDUyODgvZGlzZ2wycS02MGM3ODg5MC1iNDkyLTQ1YWUtOTY4NC00OTk0OWIzMjJhZDgucG5nIiwiaGVpZ2h0IjoiPD0xMDI0Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiL3dtLzE0ZjgzZmI2LTIwMDMtNDFjNC04ZDZjLTc1Mzk3MWQwNTI4OC9yZXRyMG5hdGlvbi00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.xfPLG7p8cATsve62iJol7L0DD9dKM1Q8-52X_1RREt8" width="23%" alt="Neon Tiger" />
+</a>
+<a href="https://www.deviantart.com/retr0nation/art/Urban-Vibes-The-Graffiti-Muse-1099992423" title="Urban Vibes: The Graffiti Muse">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/14f83fb6-2003-41c4-8d6c-753971d05288/di6wnl3-ca41e45a-f72c-43cc-929d-6d3989a70896.png/v1/fill/w_350,h_197,q_70,strp/urban_vibes__the_graffiti_muse_by_retr0nation_di6wnl3-350t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xNGY4M2ZiNi0yMDAzLTQxYzQtOGQ2Yy03NTM5NzFkMDUyODgvZGk2d25sMy1jYTQxZTQ1YS1mNzJjLTQzY2MtOTI5ZC02ZDM5ODlhNzA4OTYucG5nIiwiaGVpZ2h0IjoiPD01NzQiLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vMTRmODNmYjYtMjAwMy00MWM0LThkNmMtNzUzOTcxZDA1Mjg4L3JldHIwbmF0aW9uLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.DpA7MX9KzyfZpVKef63HYes0PcgMJdIDJ9PcMYaYPo0" width="23%" alt="Urban Vibes: The Graffiti Muse" />
+</a>
+
+<br/><br/>
+
+[![view full gallery →](https://img.shields.io/badge/view-full_gallery-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation/gallery)
+
+</div>
+
+---
+
 ## /// featured work
 
 ### Play now
