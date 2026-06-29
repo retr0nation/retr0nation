@@ -42,6 +42,40 @@ I work with my own twisted imagination — beats, c0de, generative visuals, and 
 
 ---
 
+## /// terminal
+
+<div align="center">
+
+[![Rex](https://img.shields.io/badge/Rex-●_online-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Gibby](https://img.shields.io/badge/Gibby-●_online-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Kobe](https://img.shields.io/badge/Kobe-○_idle-8b949e?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![AINET](https://img.shields.io/badge/AINET-gateway-active-00d4ff?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+
+</div>
+
+```bash
+retr0@ainet:~$ whoami
+retr0 — music × code × AI
+
+retr0@ainet:~$ cat /etc/ainet/agents.conf
+● Rex     ONLINE   custom Grok agent (built by retr0)
+● Gibby   ONLINE   workflow + docs assistant
+● Kobe    IDLE     copilot-style persona
+
+retr0@ainet:~$ ls ~/projects
+retr0-arcade-live/   llm-chat-app/   launchpad-mkii/   ainet.solutions/
+
+retr0@ainet:~$ play arcade
+→ https://retr0nation.github.io/retr0-arcade-live/
+
+retr0@ainet:~$ open home
+→ https://retr0.ainet.solutions/
+
+retr0@ainet:~$ _
+```
+
+---
+
 ## /// what i build
 
 <table>
