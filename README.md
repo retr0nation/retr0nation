@@ -129,14 +129,14 @@ Sonic explorer, digital artist, and builder. **BYTE** is the official sound on S
 </td>
 <td width="50%" valign="top">
 
-### 📐 Platforms & Strategy
+### 🛠 Web, Apps & Audio Tools
 
-Product architecture beyond the canvas — audits, monetization, growth systems
+Sites to full-stack apps to sound engines — if it ships, retr0 probably built it
 
-- Strategic audits & commission models for marketplace platforms
-- Bilingual product strategy (EN / AR) for Egypt & MENA markets
-- Academy booking & discovery platforms (Vercel · Supabase stacks)
-- Marketing feasibility, partner research, revenue model design
+- Custom websites, landing pages, and brand portals
+- Full-stack development — React · Node · Vercel · Supabase · Cloudflare
+- **VST & audio plugin** builds for FL Studio / DAW workflows
+- Product architecture, audits, and bilingual strategy (EN / AR)
 
 </td>
 </tr>
@@ -226,7 +226,7 @@ Official channel — [**BYTE** on Spotify](https://open.spotify.com/artist/32hmV
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,py,cloudflare,git,githubactions,figma&theme=dark)](https://skillicons.dev)
 
-`FL Studio` `Serato` `Novation Launchpad` `LLMs` `AI Agents` `Generative Media`
+`FL Studio` `Serato` `Novation Launchpad` `VST Development` `LLMs` `AI Agents` `Generative Media`
 
 </div>
 
