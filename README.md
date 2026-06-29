@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/website-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
 [![AINET](https://img.shields.io/badge/AINET-Solutions-111111?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![BYTE](https://img.shields.io/badge/@byte.egy-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/byte.egy)
 [![Spotify](https://img.shields.io/badge/listen-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![DeviantArt](https://img.shields.io/badge/art-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
@@ -144,6 +145,7 @@ Product architecture beyond the canvas — audits, monetization, growth systems
 
 <div align="center">
 
+[![BYTE Instagram](https://img.shields.io/badge/Instagram-@byte.egy-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/byte.egy)
 [![Spotify](https://img.shields.io/badge/Spotify-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Instagram](https://img.shields.io/badge/Instagram-@retr0nation-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/retr0nation)
@@ -177,6 +179,24 @@ Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/re
 [![view full gallery →](https://img.shields.io/badge/view-full_gallery-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation/gallery)
 
 </div>
+
+
+---
+
+## /// listen
+
+Official channel — [**BYTE** on Spotify](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn). Glitch in the beat: rap, French house, synthwave — EN / AR.
+
+<div align="center">
+
+[![GAME OVER](https://img.shields.io/badge/album-GAME_OVER-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/album/2vWbdejw4b3FsTgPsuucIE)
+[![NEXT LEVEL](https://img.shields.io/badge/album-NEXT_LEVEL-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/album/4iqi4Bg98YLoSCflZrx3bv)
+[![Ahlan Ramadan](https://img.shields.io/badge/single-Ahlan_Ramadan-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/album/7d7wGt3z7ix9EluqMYIbAl)
+[![This Is BYTE](https://img.shields.io/badge/playlist-This_Is_BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KOsCL)
+
+</div>
+
+**On repeat:** *The Hacker* · *Prisoner of Doubt* · *On The Edge* · *Wake up!*
 
 ---
 
@@ -231,6 +251,7 @@ Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/re
 <br/>
 
 [![retr0 site](https://img.shields.io/badge/visit-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
+[![BYTE Instagram](https://img.shields.io/badge/Instagram-@byte.egy-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/byte.egy)
 [![BYTE on Spotify](https://img.shields.io/badge/listen-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![X](https://img.shields.io/badge/follow-@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 
