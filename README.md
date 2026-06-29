@@ -13,7 +13,6 @@
 [![DeviantArt](https://img.shields.io/badge/art-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
 [![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
-[![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/retr0nation)
 
 <img src="https://komarev.com/ghpvc/?username=retr0nation&label=Profile%20views&color=00d4ff&style=for-the-badge" alt="Profile views" />
 
@@ -162,16 +161,16 @@ Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/re
 <div align="center">
 
 <a href="https://www.deviantart.com/retr0nation/art/GAME-OVER-Cover-1131648106" title="GAME OVER Cover">
-  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/game-over.jpg" width="23%" alt="GAME OVER Cover" />
+  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/game-over.jpg" width="23%" alt="GAME OVER Cover" loading="lazy" />
 </a>
 <a href="https://www.deviantart.com/retr0nation/art/The-Neon-Code-BYTE-Emerges-1108887250" title="BYTE Emerges">
-  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/byte-emerges.png" width="23%" alt="BYTE Emerges" />
+  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/byte-emerges.jpg" width="23%" alt="BYTE Emerges" loading="lazy" />
 </a>
 <a href="https://www.deviantart.com/retr0nation/art/Neon-Tiger-1136194226" title="Neon Tiger">
-  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/neon-tiger.png" width="23%" alt="Neon Tiger" />
+  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/neon-tiger.jpg" width="23%" alt="Neon Tiger" loading="lazy" />
 </a>
 <a href="https://www.deviantart.com/retr0nation/art/Urban-Vibes-The-Graffiti-Muse-1099992423" title="Urban Vibes: The Graffiti Muse">
-  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/graffiti-muse.png" width="23%" alt="Urban Vibes: The Graffiti Muse" />
+  <img src="https://raw.githubusercontent.com/retr0nation/retr0nation/main/assets/gallery/graffiti-muse.jpg" width="23%" alt="Urban Vibes: The Graffiti Muse" loading="lazy" />
 </a>
 
 <br/><br/>
@@ -179,7 +178,6 @@ Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/re
 [![view full gallery →](https://img.shields.io/badge/view-full_gallery-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation/gallery)
 
 </div>
-
 
 ---
 
@@ -196,7 +194,7 @@ Official channel — [**BYTE** on Spotify](https://open.spotify.com/artist/32hmV
 
 </div>
 
-**On repeat:** *The Hacker* · *Prisoner of Doubt* · *On The Edge* · *Wake up!*
+**On repeat:** [*The Hacker*](https://open.spotify.com/track/0fFOvUSESWmkgguAjdnyJU) · [*Prisoner of Doubt*](https://open.spotify.com/track/5YktSLIabIxRyqxlBp6RI3) · [*On The Edge*](https://open.spotify.com/track/1O6uvWVDkifKPfCPnM5IPf) · [*Wake up!*](https://open.spotify.com/track/6SR8t52drpdlA4xmLbd824)
 
 ---
 
@@ -246,7 +244,7 @@ Official channel — [**BYTE** on Spotify](https://open.spotify.com/artist/32hmV
 
 <div align="center">
 
-**currently:** twisted imagination in overdrive — music, c0de, or both at once.
+**currently:** shipping **BYTE** · sketching **ASK 101** · twisting imagination into c0de.
 
 <br/>
 
