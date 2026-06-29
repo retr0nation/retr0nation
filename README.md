@@ -8,6 +8,8 @@
 
 [![Website](https://img.shields.io/badge/website-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
 [![AINET](https://img.shields.io/badge/AINET-Solutions-111111?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
+[![Spotify](https://img.shields.io/badge/listen-retr0-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO)
+[![DeviantArt](https://img.shields.io/badge/art-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
 [![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 [![GitHub](https://img.shields.io/badge/GitHub-retr0nation-181717?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/retr0nation)
@@ -78,26 +80,71 @@ retr0@ainet:~$ _
 
 ## /// what i build
 
+**Abdelrahman El Haraki** — sonic explorer, digital artist, and builder. Same brain, different outputs: **retr0** makes the sound, **retr0nation** ships the code and the visuals.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AI & Engineering
-- Custom AI agents & agent workflows
-- LLM apps on Cloudflare Workers
-- Creative tooling + automation pipelines
+### 🎵 Music & Sound
+
+Released as [**retr0** on Spotify](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO) — *Frozen*, *Lumina (ADHD Version)*, *Lofi Sunset*
+
+- FL Studio production · Serato DJ sets · 808s, synths, polyrhythms
+- Curated playlists: **Moody Mix**, **Synthwave | Retro | 80s**
+- **ASK 101** — music theory education for creators
+- Novation Launchpad MKII live-performance templates
 
 </td>
 <td width="50%" valign="top">
 
-### Music & Creative
-- FL Studio / Serato production workflows
-- Novation Launchpad templates
-- Cyberpunk visuals + arcade experiments
+### 🎨 Visual & Digital Art
+
+[**retr0nation** on DeviantArt](https://www.deviantart.com/retr0nation) — 100+ pieces, synthwave · neon · cyberpunk
+
+- Album covers: *GAME OVER*, *BYTE Emerges*, *Frozen*
+- Character design, graffiti, retro automotive neon art
+- AI-assisted + traditional digital workflows (Photoshop, generative tools)
+- Brand visuals for music, games, and creative projects
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Systems & Code
+
+[**AINET.Solutions**](https://ainet.solutions) — custom agent ecosystem built by retr0
+
+- **Rex**, **Gibby**, **Kobe** — purpose-built AI personas with real workflows
+- LLM chat apps on **Cloudflare Workers** ([template](https://github.com/retr0nation/llm-chat-app-template))
+- [**retr0-arcade-live**](https://retr0nation.github.io/retr0-arcade-live/) — Flappy, Tetris, Snake in the browser
+- Automation pipelines for creative + dev tooling
+
+</td>
+<td width="50%" valign="top">
+
+### 📐 Platforms & Strategy
+
+Product architecture beyond the canvas — audits, monetization, growth systems
+
+- Strategic audits & commission models for marketplace platforms
+- Bilingual product strategy (EN / AR) for Egypt & MENA markets
+- Kids' academy booking & discovery platforms (Vercel · Supabase stacks)
+- Marketing feasibility, partner research, revenue model design
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-retr0-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
+[![Instagram](https://img.shields.io/badge/Instagram-@retr0nation-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/retr0nation)
+[![Facebook](https://img.shields.io/badge/Facebook-retr0nation-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://facebook.com/retr0nation)
+
+</div>
 
 ---
 
