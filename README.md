@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/website-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
 [![AINET](https://img.shields.io/badge/AINET-Solutions-111111?style=for-the-badge&labelColor=0d1117)](https://ainet.solutions)
-[![Spotify](https://img.shields.io/badge/listen-retr0-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO)
+[![Spotify](https://img.shields.io/badge/listen-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![DeviantArt](https://img.shields.io/badge/art-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Live Arcade](https://img.shields.io/badge/play-retr0--arcade-ff2d95?style=for-the-badge&labelColor=0d1117)](https://retr0nation.github.io/retr0-arcade-live/)
 [![Twitter](https://img.shields.io/badge/@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
@@ -36,6 +36,7 @@
 ```
 retr0  →  human. music producer, builder, architect.
 retr0nation  →  public dev persona / bot layer on GitHub.
+BYTE  →  official sound on Spotify.
 ```
 
 I work with my own twisted imagination — beats, c0de, generative visuals, and custom AI systems that actually ship.
@@ -73,6 +74,9 @@ retr0@ainet:~$ play arcade
 retr0@ainet:~$ open home
 → https://retr0.ainet.solutions/
 
+retr0@ainet:~$ listen byte
+→ https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn
+
 retr0@ainet:~$ _
 ```
 
@@ -80,7 +84,7 @@ retr0@ainet:~$ _
 
 ## /// what i build
 
-Sonic explorer, digital artist, and builder. Same brain, different outputs: **retr0** makes the sound, **retr0nation** ships the code and the visuals.
+Sonic explorer, digital artist, and builder. **BYTE** is the official sound on Spotify — **retr0** produces, **retr0nation** ships the code and visuals.
 
 <table>
 <tr>
@@ -88,10 +92,11 @@ Sonic explorer, digital artist, and builder. Same brain, different outputs: **re
 
 ### 🎵 Music & Sound
 
-Released as [**retr0** on Spotify](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO) — *Frozen*, *Lumina (ADHD Version)*, *Lofi Sunset*
+[**BYTE** on Spotify](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn) — *GAME OVER*, *NEXT LEVEL*, *Ahlan Ramadan*
 
+- Fast-paced rap · French house · synthwave — EN / AR
+- Popular: *The Hacker*, *Prisoner of Doubt*, *On The Edge*
 - FL Studio production · Serato DJ sets · 808s, synths, polyrhythms
-- Curated playlists: **Moody Mix**, **Synthwave | Retro | 80s**
 - Novation Launchpad MKII live-performance templates
 - **ASK 101** *(in progress)* — tutorial series across software, hardware, and theory — shape still evolving
 
@@ -102,7 +107,7 @@ Released as [**retr0** on Spotify](https://open.spotify.com/artist/4MjOBSiCuTXhf
 
 [**retr0nation** on DeviantArt](https://www.deviantart.com/retr0nation) — 100+ pieces, synthwave · neon · cyberpunk
 
-- Album covers: *GAME OVER*, *BYTE Emerges*, *Frozen*
+- Album covers: *GAME OVER*, *BYTE Emerges*
 - Character design, graffiti, retro automotive neon art
 - AI-assisted + traditional digital workflows (Photoshop, generative tools)
 - Brand visuals for music, games, and creative projects
@@ -139,7 +144,7 @@ Product architecture beyond the canvas — audits, monetization, growth systems
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-retr0-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/4MjOBSiCuTXhfa4UHAxmfO)
+[![Spotify](https://img.shields.io/badge/Spotify-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-retr0nation-05CC47?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=0d1117)](https://www.deviantart.com/retr0nation)
 [![Instagram](https://img.shields.io/badge/Instagram-@retr0nation-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/retr0nation)
 [![Facebook](https://img.shields.io/badge/Facebook-retr0nation-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117)](https://facebook.com/retr0nation)
@@ -226,6 +231,7 @@ Selected work from [**retr0nation** on DeviantArt](https://www.deviantart.com/re
 <br/>
 
 [![retr0 site](https://img.shields.io/badge/visit-retr0.ainet.solutions-00d4ff?style=for-the-badge&labelColor=0d1117)](https://retr0.ainet.solutions/)
+[![BYTE on Spotify](https://img.shields.io/badge/listen-BYTE-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0d1117)](https://open.spotify.com/artist/32hmVVLQxPqp743KgVfMVn)
 [![X](https://img.shields.io/badge/follow-@retr0nation-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117)](https://twitter.com/retr0nation)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d1117&height=100&section=footer" width="100%" />
