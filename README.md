@@ -80,7 +80,7 @@ retr0@ainet:~$ _
 
 ## /// what i build
 
-**Abdelrahman El Haraki** — sonic explorer, digital artist, and builder. Same brain, different outputs: **retr0** makes the sound, **retr0nation** ships the code and the visuals.
+Sonic explorer, digital artist, and builder. Same brain, different outputs: **retr0** makes the sound, **retr0nation** ships the code and the visuals.
 
 <table>
 <tr>
@@ -92,7 +92,6 @@ Released as [**retr0** on Spotify](https://open.spotify.com/artist/4MjOBSiCuTXhf
 
 - FL Studio production · Serato DJ sets · 808s, synths, polyrhythms
 - Curated playlists: **Moody Mix**, **Synthwave | Retro | 80s**
-- **ASK 101** — music theory education for creators
 - Novation Launchpad MKII live-performance templates
 
 </td>
@@ -130,7 +129,7 @@ Product architecture beyond the canvas — audits, monetization, growth systems
 
 - Strategic audits & commission models for marketplace platforms
 - Bilingual product strategy (EN / AR) for Egypt & MENA markets
-- Kids' academy booking & discovery platforms (Vercel · Supabase stacks)
+- Academy booking & discovery platforms (Vercel · Supabase stacks)
 - Marketing feasibility, partner research, revenue model design
 
 </td>
