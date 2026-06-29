@@ -65,7 +65,7 @@ retr0@ainet:~$ cat /etc/ainet/agents.conf
 ● Kobe    IDLE     copilot-style persona
 
 retr0@ainet:~$ ls ~/projects
-retr0-arcade-live/   llm-chat-app/   launchpad-mkii/   ainet.solutions/
+retr0-arcade-live/   llm-chat-app/   launchpad-mkii/   ask-101/   ainet.solutions/
 
 retr0@ainet:~$ play arcade
 → https://retr0nation.github.io/retr0-arcade-live/
@@ -93,6 +93,7 @@ Released as [**retr0** on Spotify](https://open.spotify.com/artist/4MjOBSiCuTXhf
 - FL Studio production · Serato DJ sets · 808s, synths, polyrhythms
 - Curated playlists: **Moody Mix**, **Synthwave | Retro | 80s**
 - Novation Launchpad MKII live-performance templates
+- **ASK 101** *(in progress)* — tutorial series across software, hardware, and theory — shape still evolving
 
 </td>
 <td width="50%" valign="top">
