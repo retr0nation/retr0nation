@@ -244,7 +244,7 @@ Official channel — [**BYTE** on Spotify](https://open.spotify.com/artist/32hmV
 
 <div align="center">
 
-**currently:** shipping **BYTE** · sketching **ASK 101** · twisting imagination into c0de.
+**currently:** shipping **BYTE** · sketching **ASK 101** · still in the lab — Jul '26
 
 <br/>
 
